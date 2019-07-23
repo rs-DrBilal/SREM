@@ -16,6 +16,13 @@ a.	Landsat SR product (LEDAPS & LaSRC) at 30 m resolution,
 b.	Sentinel-2A SR product at 10 m resolution, 
 c.	MODIS (MOD09) SR product at 500 m resolution, and 
 d.	Planet satellite at 3 m resolution. 
-7.	SREM can be applied to other Multispectral as well as Hyperspectral satellite data. 
+7.	SREM can be applied to other Multispectral as well as Hyperspectral satellites data. 
 
-https://www.mdpi.com/2072-4292/11/11/1344
+SREM ENVI/IDL codes for Multispectral and Hyperspectral satellite data are available on demand; please email at muhammad.bilal@connect.polyu.hk with the subject “SREM_SatelliteName_Code”, and also provide the following information:
+
+a.	Full name, 
+b.	Position, 
+c.	Affiliation, and
+d.	Research application.
+
+SREM Published Paper is available at https://www.mdpi.com/2072-4292/11/11/1344
