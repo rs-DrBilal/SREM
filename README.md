@@ -29,3 +29,4 @@ SREM Published Paper is available at https://www.mdpi.com/2072-4292/11/11/1344
 
 ![Optional Text](../SREM/SREM Flow Chart.jpg)
 
+![alt tag](http://url/to/img.png)
