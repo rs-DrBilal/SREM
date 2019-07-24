@@ -29,4 +29,6 @@ SREM ENVI/IDL codes for Multispectral and Hyperspectral satellite data are avail
 
 SREM Published Paper is available at https://www.mdpi.com/2072-4292/11/11/1344
 
-![alt tag](https://github.com/rsbilal/SREM/blob/master/SREM%20Flow%20Chart.jpg)
+(https://github.com/rsbilal/SREM/blob/master/SREM%20Flow%20Chart.jpg)
+
+
