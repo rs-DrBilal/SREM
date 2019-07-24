@@ -27,4 +27,5 @@ d.	Research application.
 
 SREM Published Paper is available at https://www.mdpi.com/2072-4292/11/11/1344
 
-![SREM Flow Chart](SREM Flow Chart.jpg)
+![Optional Text](../SREM/SREM Flow Chart.jpg)
+
