@@ -1,5 +1,4 @@
-# SREM
-SREM: Simplified and Robust Surface Reflectance Estimation Method
+# SREM: Simplified and Robust Surface Reflectance Estimation Method
 
 1.	SREM is the simplest method compared to the existing surface reflectance (SR) estimation methods. 
 2.	SREM performs SR inversion based on the 6S Radiative Transfer Model (RTM) equations.
@@ -12,12 +11,12 @@ d.	ozone concertation, and
 e.	other gases.
 5.	SREM can provide SR retrievals over diverse land surfaces including urban, vegetated, and desert surfaces.
 6.	SREM SR values are comparable with the following satellite SR products:
-    
+
     a.	Landsat SR product (LEDAPS & LaSRC) at 30 m resolution, 
     b.	Sentinel-2A SR product at 10 m resolution, 
     c.	MODIS (MOD09) SR product at 500 m resolution, and 
     d.	Planet satellite at 3 m resolution. 
-    
+        
 7.	SREM can be applied to other Multispectral as well as Hyperspectral satellites data. 
 
 SREM ENVI/IDL codes for Multispectral and Hyperspectral satellite data are available on demand; please email at muhammad.bilal@connect.polyu.hk with the subject “SREM_SatelliteName_Code”, and also provide the following information:
