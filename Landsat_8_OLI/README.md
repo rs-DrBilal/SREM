@@ -2,7 +2,7 @@
 
 #### [Code:](#code)
       SREM_Landsat_OLI.pro
-      This code is freely available to download.
+      This code is freely available for download.
    
 #### [Purpose:](#purpose)
      Atmospheric Correction/Surface Reflectance Estimation from Landsat 8 OLI Satellite
