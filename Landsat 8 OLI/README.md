@@ -2,6 +2,7 @@
 
 #### [Code:](#code)
       SREM_Landsat_OLI.pro
+      This code is available to freely download.
    
 #### [Purpose:](#purpose)
      Atmospheric Correction/Surface Reflectance Estimation from Landsat 8 OLI Satellite
@@ -12,7 +13,7 @@
      C. Sun and Satellite (view) Azimuth Angles
 
 #### [Developed By:](#developed-by)
-     ###### Dr. Muhammad Bilal
+     Dr. Muhammad Bilal
      Distinguished Professor at NUIST (Nanjing, China)
      Email: muhammad.bilal@connect.polyu.hk
 
