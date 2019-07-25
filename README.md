@@ -29,7 +29,10 @@
           c. Affiliation, and 
           b. Research Application
 
-SREM Published Paper is available at https://www.mdpi.com/2072-4292/11/11/1344
+![SREM Scematic Diagram](https://github.com/rsbilal/SREM/blob/master/SREM_Schematic_Diagram.jpg)
+
+
+[DOI](#doi) https://doi.org/10.3390/rs11111344
 
 
 
