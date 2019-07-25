@@ -1,31 +1,31 @@
-#### [SREM LANDSAT 8 OLI](srem-landsat-8-oli)
+#### [SREM LANDSAT 8 OLI](https://www.mdpi.com/2072-4292/11/11/1344)
 
-#### [Code:](#code)
+#### [Code:](https://www.mdpi.com/2072-4292/11/11/1344)
       SREM_Landsat_OLI.pro
       This code is freely available for download.
    
-#### [Purpose:](#purpose)
+#### [Purpose:](https://www.mdpi.com/2072-4292/11/11/1344)
      Atmospheric Correction/Surface Reflectance Estimation from Landsat 8 OLI Satellite
 
-#### [Input Data:](#input-data) 
+#### [Input Data:](https://www.mdpi.com/2072-4292/11/11/1344)
      a. TOA reflectance
      b. Sun and Satellite (view) Zenith Angles
      C. Sun and Satellite (view) Azimuth Angles
 
-#### [Developed By:](#developed-by)
+#### [Developed By:](https://www.mdpi.com/2072-4292/11/11/1344)
      Dr. Muhammad Bilal
      Distinguished Professor at NUIST (Nanjing, China)
      Email: muhammad.bilal@connect.polyu.hk
 
-#### [Reference:](#reference)
+#### [Reference:](https://www.mdpi.com/2072-4292/11/11/1344)
      https://doi.org/10.3390/rs11111344
 
-#### [Citation:](#citation)
+#### [Citation:](https://www.mdpi.com/2072-4292/11/11/1344)
      Bilal, M.; Nazeer, M.; Nichol, J.E.; Bleiweiss, M.P.; Qiu, Z.; Jäkel, E.; Campbell, J.R.; Atique, L.;
      Huang, X.; Lolli, S. A Simplified and Robust Surface Reflectance Estimation Method (SREM) for Use over 
      Diverse Land Surfaces Using Multi-Sensor Data.Remote Sensing, 2019, 11, 1344.
 
-#### [NOTE:](#note)
+#### [NOTE:](https://www.mdpi.com/2072-4292/11/11/1344)
      This code can be modified for DN values or TOA radiance. If you don't know how to modify it, 
      please contact at my email (above mentioned)
           
