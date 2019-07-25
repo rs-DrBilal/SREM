@@ -12,7 +12,12 @@ e.	other gases.
 5.	SREM can provide SR retrievals over diverse land surfaces including urban, vegetated, and desert surfaces.
 6.	SREM SR values are comparable with the following satellite SR products:
 
-    i.      Landsat SR product (LEDAPS & LaSRC) at 30 m resolution, 
+    a.	Landsat SR products (LEDAPS & LaSRC) at 30 m spatial resolution, 
+    b.	Position, 
+    c.	Affiliation, and
+    d.	Research application.
+
+    a. Landsat SR product (LEDAPS & LaSRC) at 30 m resolution, 
     ii.     Sentinel-2A SR product at 10 m resolution, 
     iii.    MODIS (MOD09/MYD09) SR product at 500 m resolution, and 
     iv. 	Planet satellite at 3 m resolution. 
