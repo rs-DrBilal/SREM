@@ -10,7 +10,7 @@
           b. aerosol model,
           c. water vapor concentration,
           d. ozone concertation, and
-          3. other gases.
+          e. other gases.
           
 5.	SREM can provide SR retrievals over diverse land surfaces including urban, vegetated, and desert surfaces.
 6.	SREM SR values are comparable with the following satellite SR products:
