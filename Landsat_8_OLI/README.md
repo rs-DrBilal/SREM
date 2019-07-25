@@ -1,4 +1,4 @@
-#### [SREM LANDSAT 8 OLI](#srem-landsat-8-oli)
+#### [SREM LANDSAT 8 OLI](srem-landsat-8-oli)
 
 #### [Code:](#code)
       SREM_Landsat_OLI.pro
@@ -13,7 +13,7 @@
      C. Sun and Satellite (view) Azimuth Angles
 
 #### [Developed By:](#developed-by)
-     Dr. Muhammad Bilal
+     [Dr. Muhammad Bilal](Dr. Muhammad Bilal)
      Distinguished Professor at NUIST (Nanjing, China)
      Email: muhammad.bilal@connect.polyu.hk
 
