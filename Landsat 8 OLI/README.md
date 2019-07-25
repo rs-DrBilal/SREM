@@ -20,7 +20,7 @@
 #### [Reference:](#reference)
      https://doi.org/10.3390/rs11111344
 
-#### [itation:](#citation)
+#### [Citation:](#citation)
      Bilal, M.; Nazeer, M.; Nichol, J.E.; Bleiweiss, M.P.; Qiu, Z.; Jäkel, E.; 
      Campbell, J.R.; Atique, L.;Huang, X.; Lolli, S. A Simplified and Robust Surface 
      Reflectance Estimation Method (SREM) for Use over Diverse Land Surfaces 
