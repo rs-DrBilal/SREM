@@ -1,4 +1,4 @@
-## SREM: Simplified and Robust Surface Reflectance Estimation Method
+# SREM: Simplified and Robust Surface Reflectance Estimation Method
 
 
 
