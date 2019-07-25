@@ -1,4 +1,4 @@
-## [SREM:](#srem:) Simplified and Robust Surface Reflectance Estimation Method
+## [SREM:](#srem) Simplified and Robust Surface Reflectance Estimation Method
 
 
 1.	SREM is the simplest method compared to the existing surface reflectance (SR) estimation methods. 
@@ -32,7 +32,7 @@
 ![SREM Scematic Diagram](https://github.com/rsbilal/SREM/blob/master/SREM_Schematic_Diagram.jpg)
 
 
-[DOI:](#doi:) https://doi.org/10.3390/rs11111344
+[DOI:](#doi) https://doi.org/10.3390/rs11111344
 
 
 
