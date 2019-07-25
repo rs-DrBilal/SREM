@@ -29,7 +29,7 @@
           c. Affiliation, and 
           b. Research Application
 
-<img src="https://github.com/rsbilal/SREM/blob/master/SREM_Schematic_Diagram.jpg" width="400" height="400">
+<img src="https://github.com/rsbilal/SREM/blob/master/SREM_Schematic_Diagram.jpg" width="450" height="550">
 
 
 
