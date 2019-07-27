@@ -1,10 +1,10 @@
-#### [SREM LANDSAT 8 OLI](https://www.mdpi.com/2072-4292/11/11/1344)
+### [SREM LANDSAT 8 OLI](https://www.mdpi.com/2072-4292/11/11/1344)
 
 #### [Code:](https://www.mdpi.com/2072-4292/11/11/1344)
    If solar and sensor angles are available as raster data, then use [SREM_Landsat_8_OLI.pro](https://www.mdpi.com/2072-4292/11/11/1344),   and if only one value for each angle is available, then use [SREM_Landsat_8.pro](https://www.mdpi.com/2072-4292/11/11/1344). 
    
 #### [Purpose:](https://www.mdpi.com/2072-4292/11/11/1344)
-   Atmospheric Correction/Surface Reflectance Estimation from [Landsat 8 OLI Data](https://www.mdpi.com/2072-4292/11/11/1344).
+  Surface Reflectance Estimation/Atmospheric Correction of [Landsat 8 OLI Data](https://www.mdpi.com/2072-4292/11/11/1344).
 
 #### [Input Data:](https://www.mdpi.com/2072-4292/11/11/1344)
    a. TOA reflectance; b. Solar and Ssensor Zenith Angles; c.Solar and Ssensor Azimuth Angles
