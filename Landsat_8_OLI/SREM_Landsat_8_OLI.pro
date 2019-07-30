@@ -141,14 +141,10 @@ Pro SREM_Landsat_8_OLI
 ;
 ;  calculate relative azimuth angle (RelAzm)
   RelAA = ABS((sazm) - (vazm))
-  index = where(RelAA gt 180.d, count)
-  if count gt 0 then begin
-    RelAA[index] = 360.- RelAA[index]
-  endif
-  index = where(RelAA le 180.d, count)
-  if count gt 0 then begin
-    RelAA[index] = 180.- RelAA[index]
-  endif
+  index_gt180 = where(RelAA gt 180.d)
+  index_lt180 = where(RelAA lt 180.d)
+  RelAA[index_gt180] = 360.- RelAA[index_gt180]
+  RelAA[index_lt180] = 180.- RelAA[index_lt180]
     
 ;  calculate cosinse of RelAA
 ;  cos (RelAzm) = CRA
