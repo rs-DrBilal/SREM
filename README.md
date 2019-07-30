@@ -30,7 +30,7 @@
           b. Research Application
 
 <p align="center">
-  <img src="https://github.com/rsbilal/SREM/blob/master/SREM_Schematic_Diagram.png" width="450px" height="550px"/></p>
+  <img src="https://github.com/rsbilal/rsbilal.github.io/blob/master/image/SREM_Schematic_Diagram.png" width="450px" height="550px"/></p>
 
 [DOI:](https://www.mdpi.com/2072-4292/11/11/1344) https://doi.org/10.3390/rs11111344
 
