@@ -7,7 +7,7 @@
   Surface Reflectance Estimation/Atmospheric Correction of [Landsat 8 OLI Data](https://www.mdpi.com/2072-4292/11/11/1344).
 
 #### [Input Data:](https://www.mdpi.com/2072-4292/11/11/1344)
-   (a) TOA reflectance; (b) Solar and Ssensor Zenith Angles; (c) Solar and Ssensor Azimuth Angles
+   (a) TOA reflectance; (b) Solar and Sensor Zenith Angles; (c) Solar and Sensor Azimuth Angles
 
 #### [Developed By:](https://www.mdpi.com/2072-4292/11/11/1344)
    [Dr. Muhammad Bilal](https://www.researchgate.net/profile/Muhammad_Bilal_phd); Distinguished Professor at NUIST (Nanjing, China); Email: muhammad.bilal@connect.polyu.hk
