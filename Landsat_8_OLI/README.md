@@ -21,11 +21,4 @@
 #### [NOTE:](https://www.mdpi.com/2072-4292/11/11/1344)
   This code can be modified for DN values or TOA radiance. If you don't know how to modify it, please contact at my email (above mentioned)
           
-  <p align="center">
-  <img src="https://github.com/rsbilal/SREM/blob/master/Landsat_8_OLI/SREM_Landsat8_Code_01.png" width="700px" height="990px"/></p>
-  <p align="center">
-  <img src="https://github.com/rsbilal/SREM/blob/master/Landsat_8_OLI/SREM_Landsat8_Code_02.png" width="700px" height="990px"/></p>
-  <p align="center">
-  <img src="https://github.com/rsbilal/SREM/blob/master/Landsat_8_OLI/SREM_Landsat8_Code_03.png" width="700px" height="990px"/></p>
-  <p align="center">
-  <img src="https://github.com/rsbilal/SREM/blob/master/Landsat_8_OLI/SREM_Landsat8_Code_04.png" width="700px" height="990px"/></p>
+
